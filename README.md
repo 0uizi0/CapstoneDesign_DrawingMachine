@@ -15,17 +15,17 @@
 
 **B. 하드웨어 설계**
 
-![KakaoTalk_Photo_2022-08-30-23-52-37-2.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9b7a487a-3fbe-4771-913d-15fda78cbe26/KakaoTalk_Photo_2022-08-30-23-52-37-2.jpeg)
+![KakaoTalk_Photo_2022-08-30-23-52-37-2](https://user-images.githubusercontent.com/102431281/187479429-2026ec35-5f56-43bd-bca3-cbeefd9c2100.jpeg)
 
 **C. 소프트웨어 설계**
 
 ㄱ. 그림판을 움직이는 코드
 
-![KakaoTalk_Photo_2022-08-30-23-52-37-1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/86ec338c-fc18-496e-871a-4c53685cc6c1/KakaoTalk_Photo_2022-08-30-23-52-37-1.png)
+![KakaoTalk_Photo_2022-08-30-23-52-37-1](https://user-images.githubusercontent.com/102431281/187479622-d6cc9e11-5e2e-4eff-a1cf-4ca636b51c5c.png)
 
 ㄴ. 컬러센서를 통해 그림판과 펜의 거리를 조정하는 코드
 
-![KakaoTalk_Photo_2022-08-30-23-52-37-1 복사본.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/08cdec06-85fe-4506-8e1e-b2834ca0615f/KakaoTalk_Photo_2022-08-30-23-52-37-1_%EB%B3%B5%EC%82%AC%EB%B3%B8.png)
+![KakaoTalk_Photo_2022-08-30-23-52-37-1 복사본](https://user-images.githubusercontent.com/102431281/187479724-f0d5c1dd-048b-476b-af35-193489b92cbd.png)
 
 - 파란색 : 모터 원점으로
 - 초록색 : 모터 0.15바퀴 회전
@@ -33,7 +33,7 @@
 
 ㄷ. 힘 센서를 통해 펜의 속도를 조절하는 코드
 
-![KakaoTalk_Photo_2022-08-30-23-52-37-1 복사본 2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6e04bdc7-ffdc-4dc7-b804-991d4a1aec21/KakaoTalk_Photo_2022-08-30-23-52-37-1_%EB%B3%B5%EC%82%AC%EB%B3%B8_2.png)
+![KakaoTalk_Photo_2022-08-30-23-52-37-1 복사본 2](https://user-images.githubusercontent.com/102431281/187479819-9b771233-5fe8-49e3-a19d-e0b1ac1f7128.png)
 
 - 버튼 누름 상태 : 속도가 20%로 느려짐
 - 버튼 누르지 않은 상태 : 원래 속도로 동작
