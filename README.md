@@ -40,7 +40,7 @@
 
 **D. 결과**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e3a406f1-38a7-49da-88f7-72d5a2937774/Untitled.png)
+<img width="222" alt="그림1" src="https://user-images.githubusercontent.com/102431281/187480209-c07fd2fc-d192-4c34-acff-5446ecd89116.png">
 
 **E. 수상 내역**
 
